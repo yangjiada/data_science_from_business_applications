@@ -1,5 +1,5 @@
 # 《数据分析实战》for Python
-![数据分析实战](https://file.ituring.com.cn/SmallCover/17050c56a152e103c29f)
+![数据分析实战](images/数据分析实战_正封.jpg)
 
 ## 说明
 
